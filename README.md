@@ -2,6 +2,8 @@
 This is a small collection of tools to work with .osm files. I wrote these
 utilities to help me manage offline OSM data.
 
+Written by Thomas Szymczak, @tszymczak on GitHub.
+
 ## osmdownloader.py
 A Python script that downloads OpenStreetMap data in a certain area to a file.
 The area is specified with a [bounding box](https://wiki.openstreetmap.org/wiki/Bounding_Box). For example:
